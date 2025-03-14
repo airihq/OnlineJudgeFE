@@ -90,7 +90,7 @@ export const m = {
   Hint: '힌트',
   Source: '소스',
   Edit_Problem: '문제 수정',
-  Add_Problme: '문제 추가',
+  Add_Problem: '문제 추가',
   High: '높음',
   Mid: '중간',
   Low: '낮음',
@@ -117,7 +117,7 @@ export const m = {
   Force_HTTPS: 'HTTPS 강제 사용',
   CDN_HOST: 'CDN 호스트',
   // Login.vue
-  Welcome_to_Login: '로그인을 환영합니다.',
+  Welcome_to_Login: '방문을 환영합니다.',
   GO: '시작',
   username: '사용자ID',
   password: '패스워드'
