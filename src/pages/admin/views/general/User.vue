@@ -313,7 +313,7 @@
         this.showUserDialog = true
         api.getUser(id).then(res => {
           this.user = res.data.data
-          this.user.password = ''
+          //this.user.password = ''
           this.user.real_tfa = this.user.two_factor_auth
         })
       },
